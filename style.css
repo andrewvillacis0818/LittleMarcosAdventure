@@ -1,0 +1,39 @@
+	body{background-color: #BC8B8B;}
+
+	h1{  font-family: Georgia;
+	     font-size: 45px;
+	     background-color: white;
+	     text-align: center;
+	     padding-top:20px }
+
+	p{text-align: center;
+		font-family: Ariel;
+		font-size: 20px;
+		margin-top: 10px;
+		margin-bottom: 50px;}
+
+	img{display: block;
+		margin: auto;
+		border-style: ridge;
+		border-width: 15px}
+
+
+	a{text-decoration: none;
+	  color: black;
+	  font-family: Ariel;
+	  font-size: 16px;}
+
+	a:hover{color: black;
+		font-size: 25px;}
+
+	ul{list-style: none;
+		text-align: center;
+		background-color: white;}
+
+	li{display: inline-block;
+		padding-right: 25px;}
+
+	iframe{display: block;
+		margin: auto;
+		border-style: ridge;
+		border-width: 10px;}
